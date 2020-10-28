@@ -119,7 +119,7 @@ int main(void)
         else if(your_answer == 'y')
         {
             system("clear");
-            system("./kremala");
+            system("./Hangman");
         }
     }
 
