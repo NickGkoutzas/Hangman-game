@@ -1,7 +1,10 @@
 /*
 =========================================================================
                            < Hangman game >
+
+                                1 vs 1                        (2 players)
 =========================================================================
+
 Nick Gkoutzas (C language)
 Greece, September 2020
 
@@ -14,6 +17,8 @@ If you use Linux,then:
 1) Open a terminal
 2) Go to preferences -> Compatibility -> Encoding
 3) Select 'Western IBM850'
+
+~ I don't use Windows or Mac to give you instructions about this.
 =========================================================================
 Also, it is a good idea to turn off your blinking cursor: setterm -cursor off
 You can turn it on again, using : setterm -cursor on  
