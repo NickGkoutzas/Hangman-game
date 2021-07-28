@@ -969,7 +969,7 @@ int check_letter_in_word(char *array_all_found_letters , char letter , char *wor
 }
 
 
-//colours is below...
+//colours used...
 
 char* RED()
 {
