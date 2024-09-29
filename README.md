@@ -1,1 +1,1 @@
-# Hangman-game 2020
+# Hangman-game
